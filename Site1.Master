@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="bug_tracker.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body style="background-color: White; height: 106px;">
+    <form id="form1" runat="server">
+    <div id="divHead">
+        <asp:Panel ID="Panel2" runat="server" BackColor="#2F84C4" Height="140px" 
+            Style="margin-top: 0px;" Width="1517px">
+            <asp:HyperLink ID="HyperLink1" runat="server" Font-Bold="True" NavigateUrl="~/Login.aspx"
+                Style="z-index: 1; left: 1429px; top: 29px; position: absolute" 
+                ForeColor="#FF3300">Logout</asp:HyperLink>
+            <asp:ScriptManager ID="ScriptManager1" runat="server">
+            </asp:ScriptManager>
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>
+                    <asp:Timer ID="Timer1" runat="server" Interval="50" OnTick="Timer1_Tick">
+                    </asp:Timer>
+                    <asp:Label ID="Label5" runat="server" Style="z-index: 1; left: 1254px; top: 102px;
+                        position: absolute; height: 21px; bottom: 438px; width: 93px;" 
+                        Text="Label"></asp:Label>
+                    <asp:Label ID="Label4" runat="server" Style="z-index: 1; left: 1428px; top: 103px;
+                        position: absolute; height: 18px; width: 102px;" Text="Label"></asp:Label>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </asp:Panel>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+            <asp:Panel ID="Panel1" runat="server" BorderStyle="Solid" Height="242px" 
+                Style="margin-top: 0px;" Width="1513px">
+                <asp:Label ID="Label3" runat="server" Font-Bold="True" Font-Size="XX-Large" ForeColor="#CC3300"
+                    
+                    Style="z-index: 1; left: 113px; top: 55px; position: absolute; height: 44px; width: 427px;" 
+                    Text="BUG TRACKING SYSTEM" Font-Italic="True" Font-Names="Mongolian Baiti"></asp:Label>
+                <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/Styles/image/button/imagesCA4P817H.jpg"
+                    Style="z-index: 1; left: 343px; top: 253px; position: absolute; width: 118px;
+                    height: 64px; right: 1064px;" PostBackUrl="~/Home.aspx" />
+                <asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/Styles/image/button/bug.jpg"
+                    Style="z-index: 1; left: 559px; top: 252px; position: absolute; width: 114px;
+                    height: 66px; right: 852px" OnClick="ImageButton3_Click" />
+                <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/Styles/image/button/user.jpg"
+                    Style="z-index: 1; left: 1013px; top: 249px; position: absolute; width: 126px;
+                    height: 65px" DescriptionUrl="~/New_User.aspx" 
+                    OnClick="ImageButton4_Click" />
+                <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="~/Styles/image/my_acc.jpg"
+                    Style="z-index: 1; left: 773px; top: 251px; position: absolute; height: 65px;
+                    width: 126px" PostBackUrl="~/Edit_User.aspx" />
+                <asp:Image ID="Image1" runat="server" Height="182px" ImageUrl="~/Styles/image/green-beetle.png"
+                    Width="208px" />
+                <asp:Image ID="Image2" runat="server" Style="position: relative; top: 3px; left: 1047px;
+                    height: 232px; width: 248px;" 
+                    ImageUrl="~/Styles/image/cartoon-insects-8.gif" />
+            </asp:Panel>
+        </asp:ContentPlaceHolder>
+    </div>
+    <div style="position: absolute; margin-top: 380px; margin-left: 70px; top: 44px;
+        left: -51px; width: 1500px; height: 1000px;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<asp:HyperLinkField ItemStyle-Width="10%" DataNavigateUrlFields="id" DataNavigateUrlFormatString="WebForm9.aspx?id={0}" DataTextField="id" ItemStyle-HorizontalAlign="Center"/> 

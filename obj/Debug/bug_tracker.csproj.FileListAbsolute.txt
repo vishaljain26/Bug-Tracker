@@ -1,0 +1,36 @@
+c:\users\smriti\documents\visual studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+c:\users\smriti\documents\visual studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+c:\users\smriti\documents\visual studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\ResolveAssemblyReference.cache
+c:\users\smriti\documents\visual studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+c:\users\smriti\documents\visual studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+C:\Users\server\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+C:\Users\server\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+C:\Users\server\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\server\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+C:\Users\server\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+C:\Users\Vishal\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+C:\Users\Vishal\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+C:\Users\Vishal\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vishal\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+C:\Users\Vishal\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+F:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+F:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+F:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+E:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.dll
+E:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\bin\bug_tracker.pdb
+E:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.dll
+E:\Documents\Visual Studio 2010\Projects\bug_tracker\bug_tracker\obj\Debug\bug_tracker.pdb
+C:\Users\visha\Documents\projects\bug_tracker\bin\bug_tracker.dll.config
+C:\Users\visha\Documents\projects\bug_tracker\bin\bug_tracker.dll
+C:\Users\visha\Documents\projects\bug_tracker\bin\bug_tracker.pdb
+C:\Users\visha\Documents\projects\bug_tracker\obj\Debug\bug_tracker.csprojResolveAssemblyReference.cache
+C:\Users\visha\Documents\projects\bug_tracker\obj\Debug\bug_tracker.dll
+C:\Users\visha\Documents\projects\bug_tracker\obj\Debug\bug_tracker.pdb

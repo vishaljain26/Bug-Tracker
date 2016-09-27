@@ -1,0 +1,43 @@
+Simulation work is reported indicating that packet reservation multiple access (PRMA) 
+allows a variety of information sources to share the same wireless access channel.
+Some of the sources, such as speech terminals, are classified as periodic and others, 
+such as signaling, are classified as random. Packets from all sources contend for access 
+to channel time slots. When a periodic information terminal succeeds in gaining access, 
+it reserves subsequent time slots for uncontested transmission.
+
+
+
+Packet reservation multiple access (PRMA) is portrayed as a multimedia packet multiplexer 
+conveying speech, data and video signals, which ensures that the slot occupancy of 
+conventional time division multiple access (TDMA) links is approximately doubled. 
+In addition to 20 speech users the 20 slot 720kbit/s scheme presented supported 20 data 
+users and up to seven video users, while maintaining a slot occupancy in excess of 80%.
+
+
+
+Packet Reservation Multiple Access
+
+Packet Reservation Multiple Access (PRMA) has been developed by D. Goodman et al. at 
+Winlab at Rutgers University. It applies Time Assigned Speech Interpolation (TASI) as 
+multiple access method in wireless networks, while previously TASI was almost exclusively 
+used for multiplexing on satellite links.
+
+PRMA is a multiple access scheme with frames of a fixed number of slots. If a terminal has 
+a series of data packets (or speech segments) to transmit, it competes for access in any 
+free slot. If it successfully captures the base station, the terminal gains reservation in 
+the corresponding slots of the next frames, until it releases the reservation.
+
+In PRMA, adjacent cells use different carrier frequencies according to a cellular reuse plan.
+
+PRMA facts
+
+TDMA with slotted ALOHA reservation scheme
+Frame Duration 16 msec (62.5 frames/sec)
+Source rates 32 kbit/sec.
+Channel bit rate 720 kbit/sec; Bandwidth 720 khz.
+20 slots per frame
+Wireless version of satelite telephony technology:
+DSI (Digital Speech Interpolation) or TASI (Time Assigned Speech Interpolation)
+One carrier supports 26 - 39 simultaneous calls with a packet dropping rate » 1%
+576 bits/slot (includes 64 bit overhead)
+Voice and Data

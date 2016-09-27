@@ -1,0 +1,18 @@
+NOW HOW TO HACK:
+1. Download wifi slax and Burn the downloaded .iso into a CD in order to boot it.
+2. Reboot the computer (if necessary) and boot it.
+3. Press Enter when necessary.
+4. Elect the option no pcmcia and press Enter.
+5. Introduce root as user and toor as password in order to login.
+6. Introduce now startx to start the operative system in graphics mode.
+7. Go to Start> Wifislax> Asistencia Chipset> Asistencia intel pro wireless> Cargar ipw3945 inyección - ipwray-ng; to start injection mode. The system must detect now 2 more network card interfaces: wifi0 and rtap0.
+8. Write in the Shell that have just appeard airodump-ng wifi0.
+9. Take a look of which WEP encrypted network (ENC category) has more Beacons and pay special attention on what channel it is (CH category) and what's it's name (ESSIDcategory). That will posibly be the network with more signal received. 
+Press Ctrl+C and introduce airoway.sh. 
+Move with the cursor to the channel of the wanted network and press Enter when the wanted network appear.
+10. Elect the network with the number it has associated.
+11. Press number 2. There will appear some information refered to an association. If you succeed there will appear this: Association successful :-).
+12. Press number 3. There will appear some information refered to a reply.
+13. Now wait till the attack 3 (the step told just before) comence to catch ARP's and #Datacategory reaches 30000.
+14. Press number 8 when you have collected the required Data. There will appear some red letters and numbers. If you succeed it must appear a KEY FOUND down in the window. 
+15. Write in a piece of paper both keys (HEX and ASCII respectively).
